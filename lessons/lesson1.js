@@ -16,3 +16,10 @@ console.log(age)
 
 const occupation = "Engineer"
 console.log(occupation)
+
+//data types
+var middleName = "David" //string
+var ageOfBorther = 25 //number
+var isHeMarried = false //boolean
+var yearsInMarriage = null //null
+var numerOfCars = undefined //undefined
