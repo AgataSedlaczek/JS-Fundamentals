@@ -36,4 +36,3 @@ var myResult = multiplyByTwo(5)
 console.log(myResult)
 
 //import funkcji
-import { printAge } from
