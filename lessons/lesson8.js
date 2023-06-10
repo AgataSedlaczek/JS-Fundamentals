@@ -25,3 +25,15 @@ function printName(name){
     console.log(name)
 }
 printName('Mike')
+
+//function with return
+
+function multiplyByTwo(number){
+    var result = number * 2
+    return result
+}
+var myResult = multiplyByTwo(5)
+console.log(myResult)
+
+//import funkcji
+import { printAge } from
